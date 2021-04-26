@@ -1,0 +1,35 @@
+.login{
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, $blue 0%, rgba(9,9,121,1) 51%, $red 100%);
+    color: $white;
+    position: absolute;
+}
+
+.cont_login{
+    background-color:rgba(0, 0, 0, 0.5);
+    padding: 30px;
+
+    .title{
+        font-size: 18px;
+        font-weight: 800;
+        margin: 0 0 40px;
+
+    }
+
+    label{
+        font-size: 14px;
+        font-weight: 300;
+    }
+
+    input{
+        margin: 0 0 10px;
+        font-size: 12px;
+        height: 35px;
+        color: $grayOne;
+    }
+
+    .btn{
+        margin: 20px 0  0;
+    }
+}

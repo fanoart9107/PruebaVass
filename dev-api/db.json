@@ -1,0 +1,81 @@
+{
+    "ussers": [
+        {
+            "id": 1,
+            "firstname": "Christian",
+            "lastname": "martinez",
+            "username": "cmartinez",
+            "password": "1234"
+        },
+        {
+            "id": 2,
+            "firstName": "pedrito",
+            "lastName": "peperas",
+            "username": "pedritop",
+            "password": "12345"
+        }
+    ],
+
+    "products": [
+        {
+            "id": 1,
+            "date": "2021-04-20",
+            "name": "producto1",
+            "detail": "producto numero uno",
+            "in":{
+                "quantity": 5,
+                "unitValue": 300
+            },
+            "out":{
+            }
+        },
+        {
+            "id": 2,
+            "date": "2021-04-8",
+            "name": "producto2",
+            "detail": "producto numero dos",
+            "in":{
+                "quantity": 10,
+                "unitValue": 300
+            },
+            "out":{
+            }
+        },
+        {
+            "id": 3,
+            "date": "2021-04-8",
+            "name": "producto3",
+            "detail": "producto numero tres",
+            "in":{
+                "quantity": 10,
+                "unitValue": 300
+            },
+            "out":{
+            }
+        },
+        {
+            "id": 4,
+            "date": "2021-04-8",
+            "name": "producto4",
+            "detail": "producto numero cuatro",
+            "in":{
+                "quantity": 40,
+                "unitValue": 300
+            },
+            "out":{
+            }
+        },
+        {
+            "id": 5,
+            "date": "2021-04-8",
+            "name": "producto5",
+            "detail": "producto numero Cinco",
+            "in":{
+                "quantity": 0,
+                "unitValue": 0
+            },
+            "out":{
+            }
+        }
+    ]
+}
