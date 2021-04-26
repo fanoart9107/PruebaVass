@@ -1,5 +1,5 @@
 
-Proyecto Prueba como frontEnd Developer para la empresa Bold
+Proyecto Prueba como frontEnd Developer para VASS cliente Todo 1
 
 
 ## Cómo correrlo en desarrollo:
