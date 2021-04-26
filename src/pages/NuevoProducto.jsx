@@ -10,8 +10,14 @@ const NuevoProducto = () =>{
 
             <div className="container">
                 <div className="row">
-                    <h3>Nueva entrada de producto</h3>
-                    <FormProductos />
+                    <div className=" col-12  d-flex flex-column bd-highlight">
+                        <h3>Nueva entrada de producto</h3>
+                    </div>
+                    <div className=" col-6  d-flex flex-column bd-highlight">
+                        <FormProductos />
+                    </div>
+                    
+                    
                 </div>
             </div>
 

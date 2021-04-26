@@ -21,7 +21,7 @@ const Producto = () => {
     return(
         <div>
 
-            <ul className="list-group d-flex align-items-start">
+            <ul className="list-group ">
                 {productos.map((producto) =>
                     <li key={producto.name} className=" producto list-group-item">
                         <h3>{producto.name}</h3>

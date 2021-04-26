@@ -3,21 +3,21 @@ import React from 'react';
 
 const FormProductos = () => {
     return(
-        <form>
+        <form className="form-group">
                 <label> Nombre </label>
-                <input type="text"/>
+                <input type="text" className="form-control"/>
 
                 <label> Detalle </label>
-                <input type="text"/>
+                <input type="text" className="form-control"/>
 
                 <label> Fecha </label>
-                <input type="date"/>
+                <input type="date" className="form-control"/>
 
                 <label> cantidad </label>
-                <input type="number"/>
+                <input type="number" className="form-control"/>
 
                 <label> Precio </label>
-                <input type="number"/>
+                <input type="number" className="form-control"/>
             </form>
     )   
 }
